@@ -1,3 +1,2 @@
-# CipherEngine
-Cipher is a general purpose game engine written for educational purposes.<br />
-As you have guessed, the name has been inspired by Metal Gear Solid games.
+# HydroEngine
+Hydro is a general purpose game engine written for educational purposes and the successor to my previous ZeroEngine.
